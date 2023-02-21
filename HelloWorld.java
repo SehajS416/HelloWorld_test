@@ -1,7 +1,5 @@
 class HelloWorld{
 	public static void main(String args[]){
-			System.out.println("Hello World");
-			System.out.printl("Test the webhook");
-		        
+			System.out.printl("This is a Hello World Program in Java");
 	}
 	}
